@@ -1,0 +1,59 @@
+.movie {
+    font-family: 'VT323', monospace;
+}
+         
+.singer {
+    font-family: 'Anton', sans-serif;
+ }
+
+.actor {
+    font-family: 'Ultra', serif;
+}
+
+.song {
+   font-family: 'Russo One', sans-serif;    
+}
+
+h1 {
+    
+    font-size: 80px;
+    color: white;
+}
+
+h2 { 
+    font-size:100px ;
+    background-color: white;
+}
+    
+p {
+ font-size: 65px;
+ background-color: white;
+ border-radius: 90px;
+ }
+
+body {
+ background-color: black;
+ text-align: center;
+ margin: 20px;
+ border: 20px groove red;
+ padding: 100px;
+}
+
+img {
+    width: 450px;
+    border-radius:30px ; 
+    margin:50px ;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 20px solid blue;
+  padding: 30px;
+  border-style:outset;
+}
+
+
+
+
+
